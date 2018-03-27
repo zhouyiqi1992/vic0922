@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::post('jwt','TestController@testJwt');
+Route::get('/jwt', 'admin/TestController@testJwt');
