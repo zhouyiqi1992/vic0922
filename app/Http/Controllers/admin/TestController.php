@@ -10,5 +10,6 @@ class TestController extends Controller
     public function testJwt(Request $request)
     {
         $token = JWTAuth::attempt();
+        return $token;
     }
 }
