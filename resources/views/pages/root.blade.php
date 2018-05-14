@@ -5,7 +5,7 @@
  * Date: 2018/5/14
  * Time: 下午4:37
  */
-@extends('layouts.app')
+@include('layouts.app')
 @section('title', '首页')
 
 @section('content')
