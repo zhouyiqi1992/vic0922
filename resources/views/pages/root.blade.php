@@ -1,11 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: zhouyiqi
- * Date: 2018/5/14
- * Time: 下午4:37
- */
-@include('layouts.app')
+
+@extends('layouts.app')
 @section('title', '首页')
 
 @section('content')
