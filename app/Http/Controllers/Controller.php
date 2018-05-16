@@ -10,7 +10,7 @@ use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
  * @SWG\Swagger(
  *   @SWG\Info(
  *     title="Site Title",
- *     version="1.0",
+ *     version="2.0",
  *     description="Site description",
  *     @SWG\Contact(
  *         email="xyz@xyz.com"
