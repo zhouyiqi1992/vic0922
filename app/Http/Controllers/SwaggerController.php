@@ -3,30 +3,34 @@
 namespace App\Http\Controllers;
 
 use Swagger\Annotations\Info;
+use Swagger\Annotations as SWG;
 
 class SwaggerController extends Controller
 {
     /**
-     * 假设是项目中的一个API
-     *
-     * @SWG\Get(path="/swagger/my-data",
-     *   tags={"project"},
-     *   summary="拿一些神秘的数据",
-     *   description="请求该接口需要先登录。",
-     *   operationId="getMyData",
-     *   produces={"application/json"},
-     *   @SWG\Parameter(
-     *     in="formData",
-     *     name="reason",
-     *     type="string",
-     *     description="拿数据的理由",
-     *     required=true,
-     *   ),
-     *   @SWG\Response(response="default", description="操作成功")
+     * @Swagger(
+     *     schemes={"http"},
+     *     basePath="/",
+     *     consumes={"application/json"},
+     *     tags={
+     *         @SWG\Tag(
+     *             name="API",
+     *             description="API接口"
+     *         )
+     *     }
      * )
+     *
+     * @Info(
+     *  title="API文档",
+     *  version="0.1"
+     * )
+     *
+     * @return mixed
      */
-    public function getMyData()
-    {
 
+    public function doc()
+    {
+        $swagger = \Swagger\scan(realpath(__DIR__.'/../../'));
+        return response()->json($swagger);
     }
 }

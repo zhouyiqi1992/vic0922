@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::get('/jwt', 'admin/TestController@testJwt');
 
 Route::get('/', 'PagesController@root')->name('root');
+
+Route::get('/swagger/doc', 'SwaggerController@doc');
