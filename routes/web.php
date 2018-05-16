@@ -11,12 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
 Route::get('/jwt', 'admin/TestController@testJwt');
 
 Route::get('/', 'PagesController@root')->name('root');
 
-Route::get('/swagger/doc', 'SwaggerController@doc');
+Route::get('/swagger/doc', 'SwaggerController@doc')->name('doc');
+
+Route::get('/test' , 'PagesController@test');
