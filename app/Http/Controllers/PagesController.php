@@ -30,11 +30,9 @@ class PagesController extends Controller
      *     type = "integer",
      *     required="true",
      *     description="用户id",
-     *     )
-     *
-     * @SWG\Response(response = 200,description = "响应结果的描述"）
-     *     ）
-     *
+     *     ),
+     *     @SWG\Response(response = 200,description = "响应结果的描述")
+     * )
      */
     public function testSwg()
     {
