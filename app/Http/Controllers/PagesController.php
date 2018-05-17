@@ -26,9 +26,9 @@ class PagesController extends Controller
      *     produces={"application/json"},
      *     @SWG\Parameter(
      *     name="user_id",
-     *     in = "query",
-     *     type = "integer",
-     *     required="true",
+     *     in = "formData",
+     *     type = "string",
+     *     required=true,
      *     description="用户id",
      *     ),
      *     @SWG\Response(response = 200,description = "响应结果的描述")
