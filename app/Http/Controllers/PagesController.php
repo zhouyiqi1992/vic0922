@@ -6,17 +6,7 @@ use Illuminate\Http\Request;
 
 class PagesController extends Controller
 {
-    /**
-     * 返回JSON格式的Swagger定义
-     *
-     * 这里需要一个主`Swagger`定义：
-     * @SWG\Swagger(
-     *   @SWG\Info(
-     *     title="我的`Swagger`测试文档",
-     *     version="1.2.1"
-     *   )
-     * )
-     */
+
     /**
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
      *
