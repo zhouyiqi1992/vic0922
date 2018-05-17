@@ -16,7 +16,7 @@ Route::get('/jwt', 'admin/TestController@testJwt');
 Route::get('/', 'PagesController@root')->name('root');
 
 
-Route::get('/test', 'PagesController@testSwg')->name('testSwg');
+Route::get('/test', 'PagesController@testSwg');
 
 // Authentication Routes...
 Route::get('login', 'Auth\LoginController@showLoginForm')->name('login');
