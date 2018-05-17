@@ -18,7 +18,7 @@ class PagesController extends Controller
 
     /**
      * @SWG\Get(
-     *     path = "/testSwg/{user_id}",
+     *     path = "/testSwg",
      *     description = "这里是文档描述",
      *     summary = "这里是接口简介",
      *     tags = "这是接口标签，可以有多个",
@@ -31,12 +31,9 @@ class PagesController extends Controller
      *     required="true",
      *     description="用户id",
      *     )
-     * )
      *
-     * @SWG\Response(
-     *     response = 200,
-     *     description = "响应结果的描述"
-     * )
+     * @SWG\Response(response = 200,description = "响应结果的描述"）
+     *     ）
      *
      */
     public function testSwg()
