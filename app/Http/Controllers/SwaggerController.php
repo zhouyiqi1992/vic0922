@@ -31,7 +31,7 @@ class SwaggerController extends Controller
     /**
      * 假设是项目中的一个API
      *
-     * @SWG\Get(path="/swagger/my-data",
+     * @SWG\Get(path="/my-data",
      *   tags={"project"},
      *   summary="拿一些神秘的数据",
      *   description="请求该接口需要先登录。",
