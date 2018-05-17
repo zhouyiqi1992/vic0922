@@ -21,7 +21,7 @@ class PagesController extends Controller
      *     path = "/testSwg",
      *     description = "这里是文档描述",
      *     summary = "这里是接口简介",
-     *     tags = "这是接口标签，可以有多个",
+     *     tags = {"project"},
      *     operationId = "getMyData",
      *     produces={"application/json"},
      *     @SWG\Parameter(
