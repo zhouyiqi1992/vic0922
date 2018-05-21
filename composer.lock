@@ -814,7 +814,11 @@
             },
             "dist": {
                 "type": "zip",
+<<<<<<< HEAD
                 "url": "https://api.github.com/repos/laravel/tinker/zipball/e3086ee8cb1f54a39ae8dcb72d1c37d10128997d",
+=======
+                "url": "https://files.phpcomposer.com/files/laravel/tinker/e3086ee8cb1f54a39ae8dcb72d1c37d10128997d.zip",
+>>>>>>> refs/remotes/origin/master
                 "reference": "e3086ee8cb1f54a39ae8dcb72d1c37d10128997d",
                 "shasum": ""
             },
@@ -1706,7 +1710,11 @@
             },
             "dist": {
                 "type": "zip",
+<<<<<<< HEAD
                 "url": "https://api.github.com/repos/swagger-api/swagger-ui/zipball/aa22756641f03cad421b806c3b64c9f33f6578b6",
+=======
+                "url": "https://files.phpcomposer.com/files/swagger-api/swagger-ui/aa22756641f03cad421b806c3b64c9f33f6578b6.zip",
+>>>>>>> refs/remotes/origin/master
                 "reference": "aa22756641f03cad421b806c3b64c9f33f6578b6",
                 "shasum": ""
             },
