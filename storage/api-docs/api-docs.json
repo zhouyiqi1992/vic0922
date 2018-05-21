@@ -1,15 +1,38 @@
 {
     "swagger": "2.0",
     "info": {
-        "title": "Site Title",
-        "description": "Site description",
-        "contact": {
-            "email": "xyz@xyz.com"
-        },
-        "version": "1.0"
+        "title": "\u6211\u7684`Swagger`API\u6587\u6863",
+        "version": "1.0.0"
     },
     "paths": {
-        "/swagger/my-data": {
+        "/testSwg": {
+            "get": {
+                "tags": [
+                    "project"
+                ],
+                "summary": "\u8fd9\u91cc\u662f\u63a5\u53e3\u7b80\u4ecb",
+                "description": "\u8fd9\u91cc\u662f\u6587\u6863\u63cf\u8ff0",
+                "operationId": "getMyData",
+                "produces": [
+                    "application/json"
+                ],
+                "parameters": [
+                    {
+                        "name": "user_id",
+                        "in": "formData",
+                        "description": "\u7528\u6237id",
+                        "required": true,
+                        "type": "string"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "\u54cd\u5e94\u7ed3\u679c\u7684\u63cf\u8ff0"
+                    }
+                }
+            }
+        },
+        "/my-data": {
             "get": {
                 "tags": [
                     "project"
