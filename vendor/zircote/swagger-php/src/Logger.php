@@ -8,7 +8,6 @@ namespace Swagger;
 
 use Closure;
 use Exception;
-use Swagger\Annotations as SWG;
 
 /**
  * Logger reports the parser and validation messages.
