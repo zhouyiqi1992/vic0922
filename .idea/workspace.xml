@@ -2,7 +2,108 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="445ae21e-de4b-437a-afdf-2d610570365a" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vic0922.iml" afterPath="$PROJECT_DIR$/.idea/vic0922.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ca.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ca.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/en.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/en.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/es.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/es.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fr.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fr.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ko.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ko.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/nl.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/nl.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/no.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/no.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pl.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pl.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sl.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sl.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl_ME.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl_ME.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Latn_ME.php" afterPath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Latn_ME.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/.editorconfig" afterPath="$PROJECT_DIR$/vendor/psy/psysh/.editorconfig" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/.gitignore" afterPath="$PROJECT_DIR$/vendor/psy/psysh/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/.travis.yml" afterPath="$PROJECT_DIR$/vendor/psy/psysh/.travis.yml" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/LICENSE" afterPath="$PROJECT_DIR$/vendor/psy/psysh/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build-manual" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build-phar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build-vendor" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build-vendor-compat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/package" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/composer.json" afterPath="$PROJECT_DIR$/vendor/psy/psysh/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/LegacyEmptyPass.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/LegacyEmptyPass.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Command/ReflectingCommand.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Command/ReflectingCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Command/TraceCommand.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Command/TraceCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Compiler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Context.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Context.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Exception/TypeErrorException.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Exception/TypeErrorException.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/ExecutionClosure.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/ExecutionClosure.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/ExecutionLoop.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/ExecutionLoop.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Formatter/CodeFormatter.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Formatter/CodeFormatter.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Formatter/SignatureFormatter.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Formatter/SignatureFormatter.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Reflection/ReflectionLanguageConstruct.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Reflection/ReflectionLanguageConstruct.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Shell.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/Shell.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractMatcher.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractMatcher.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/functions.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/src/functions.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/FunctionReturnInWriteContextPassTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/FunctionReturnInWriteContextPassTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/ImplicitReturnPassTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/ImplicitReturnPassTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/NamespacePassTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/NamespacePassTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/RequirePassTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/RequirePassTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/UseStatementPassTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/UseStatementPassTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/ValidClassNamePassTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/ValidClassNamePassTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleanerTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleanerTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Exception/BreakExceptionTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Exception/BreakExceptionTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Exception/ErrorExceptionTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Exception/ErrorExceptionTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Formatter/CodeFormatterTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Formatter/CodeFormatterTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Formatter/SignatureFormatterTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/Formatter/SignatureFormatterTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/ShellTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/ShellTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/TabCompletion/AutoCompleterTest.php" afterPath="$PROJECT_DIR$/vendor/psy/psysh/test/TabCompletion/AutoCompleterTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Command/Command.php" afterPath="$PROJECT_DIR$/vendor/symfony/console/Command/Command.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/Specificity.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/Specificity.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Translator.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Translator.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/XPathExpr.php" afterPath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/XPathExpr.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/ErrorHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/ErrorHandler.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/Exception/FlattenException.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Exception/FlattenException.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/Tests/ErrorHandlerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/debug/Tests/ErrorHandlerTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/finder/SplFileInfo.php" afterPath="$PROJECT_DIR$/vendor/symfony/finder/SplFileInfo.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/File.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/File.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/UploadedFile.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/UploadedFile.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/RequestTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/RequestTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/ControllerMetadata/ArgumentMetadataFactory.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/ControllerMetadata/ArgumentMetadataFactory.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/EventListener/RouterListener.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/EventListener/RouterListener.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Kernel.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Kernel.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Profiler/Profiler.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Profiler/Profiler.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/ControllerMetadata/ArgumentMetadataFactoryTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/ControllerMetadata/ArgumentMetadataFactoryTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Exception/UnprocessableEntityHttpExceptionTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Exception/UnprocessableEntityHttpExceptionTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Exception/UnsupportedMediaTypeHttpExceptionTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Exception/UnsupportedMediaTypeHttpExceptionTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Profiler/ProfilerTest.php" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Profiler/ProfilerTest.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/composer.json" afterPath="$PROJECT_DIR$/vendor/symfony/http-kernel/composer.json" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/ExecutableFinder.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/ExecutableFinder.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/PhpExecutableFinder.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/PhpExecutableFinder.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/Pipes/AbstractPipes.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/Pipes/AbstractPipes.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/Pipes/UnixPipes.php" afterPath="$PROJECT_DIR$/vendor/symfony/process/Pipes/UnixPipes.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/Dumper/DumperCollection.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/Dumper/DumperCollection.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/routing/RouteCollectionBuilder.php" afterPath="$PROJECT_DIR$/vendor/symfony/routing/RouteCollectionBuilder.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/Command/XliffLintCommand.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/Command/XliffLintCommand.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogueInterface.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogueInterface.php" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/PluralizationRules.php" afterPath="$PROJECT_DIR$/vendor/symfony/translation/PluralizationRules.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +130,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/swagger-api/swagger-ui/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
+            <state relative-caret-position="1254">
               <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
               <folding />
             </state>
@@ -49,8 +150,8 @@
       <file leaf-file-name="register.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+            <state relative-caret-position="128">
+              <caret line="69" column="118" lean-forward="false" selection-start-line="69" selection-start-column="118" selection-end-line="69" selection-end-column="118" />
               <folding>
                 <marker date="1526869157987" expanded="true" signature="9:22" ph="..." />
                 <marker date="1526869157987" expanded="true" signature="34:43" ph="..." />
@@ -216,12 +317,23 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/mews/captcha" />
       <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/wechat" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/socialite" />
+      <path value="$PROJECT_DIR$/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
+    <option name="x" value="1452" />
+    <option name="y" value="23" />
     <option name="width" value="1600" />
-    <option name="height" value="900" />
+    <option name="height" value="793" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -238,7 +350,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,47 +357,11 @@
               <item name="vic0922" type="b2602c69:ProjectViewProjectNode" />
               <item name="vic0922" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="vic0922" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vic0922" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="vic0922" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vic0922" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Providers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="vic0922" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vic0922" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="vic0922" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vic0922" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="vic0922" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vic0922" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="auth" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="vic0922" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vic0922" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="auth" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="passwords" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -338,34 +413,36 @@
       <workItem from="1526526416748" duration="9169000" />
       <workItem from="1526629069186" duration="1243000" />
       <workItem from="1526632670154" duration="1481000" />
-      <workItem from="1526863995215" duration="6324000" />
+      <workItem from="1526863995215" duration="7301000" />
+      <workItem from="1527038666655" duration="213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51172000" />
+    <option name="totallyTimeSpent" value="52362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1600" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19512194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.5025674" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32648125" sideWeight="0.49743262" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19255456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.5025674" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3252149" sideWeight="0.49743262" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -593,9 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#7#132#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,13 +720,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/swagger-api/swagger-ui/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
+        <state relative-caret-position="1254">
           <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
           <folding />
         </state>
@@ -663,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -671,9 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-          <folding>
-            <element signature="e#33#72#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -681,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,15 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
           <caret line="49" column="39" lean-forward="false" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
-          <folding>
-            <marker date="1526546022399" expanded="true" signature="592:602" ph="..." />
-            <marker date="1526546022399" expanded="true" signature="1036:1052" ph="..." />
-            <marker date="1526546022399" expanded="true" signature="1103:1122" ph="..." />
-            <marker date="1526546022399" expanded="true" signature="1695:1715" ph="..." />
-            <marker date="1526546022399" expanded="true" signature="1915:1932" ph="..." />
-            <marker date="1526546022399" expanded="true" signature="2244:2261" ph="..." />
-            <marker date="1526546022399" expanded="true" signature="2341:2355" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,23 +786,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1526461717654" expanded="true" signature="9:22" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="34:43" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="364:391" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="422:436" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="507:515" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="569:612" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="876:900" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="962:983" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="1097:1122" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="1332:1378" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="1687:1711" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="1825:1853" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="2063:2122" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="2467:2504" ph="..." />
-            <marker date="1526461717654" expanded="true" signature="2618:2659" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -753,14 +793,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        <state relative-caret-position="128">
+          <caret line="69" column="118" lean-forward="false" selection-start-line="69" selection-start-column="118" selection-end-line="69" selection-end-column="118" />
           <folding>
             <marker date="1526869157987" expanded="true" signature="9:22" ph="..." />
             <marker date="1526869157987" expanded="true" signature="34:43" ph="..." />
