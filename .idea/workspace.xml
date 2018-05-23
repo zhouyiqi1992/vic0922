@@ -2,7 +2,671 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="445ae21e-de4b-437a-afdf-2d610570365a" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vic0922.iml" afterPath="$PROJECT_DIR$/.idea/vic0922.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/.php_cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/phpunit.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/src/Commands/ExtensionsCommand.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/src/Commands/Provider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/src/Extension.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/src/ManifestManager.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/src/Plugin.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer/tests/ManifestManagerTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/UPGRADING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Middleware.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Pool.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RequestOptions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/TransferStats.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/UriTemplate.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/functions_include.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/AggregateException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/CancellationException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Coroutine.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/EachPromise.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/FulfilledPromise.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/Promise.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromiseInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/PromisorInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectedPromise.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/RejectionException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueue.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/TaskQueueInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/guzzlehttp/promises/src/functions_include.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Carbon.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/bs_BA.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ca.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/en.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/es.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/fr.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/hi.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/is.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ko.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/ne.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/nl.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/no.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/oc.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/pl.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sh.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sl.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Cyrl_ME.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sr_Latn_ME.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/nesbot/carbon/src/Carbon/Lang/sw.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/.php_cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/phpunit.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/AccessToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/AccessTokenInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/AuthorizeFailedException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Config.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/FactoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/HasAttributes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/InvalidArgumentException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/InvalidStateException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/ProviderInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/AbstractProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/DoubanProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/FacebookProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/GitHubProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/GoogleProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/LinkedinProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/OutlookProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/QQProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/WeChatProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/WeWorkProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/Providers/WeiboProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/SocialiteManager.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/User.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/UserInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/src/WeChatComponentInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/tests/OAuthTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/tests/Providers/WeWorkProviderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/tests/UserTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/socialite/tests/WechatProviderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/.phplint.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/.styleci.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/Application.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/ContentSecurity/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/ContentSecurity/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/Jssdk/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/Jssdk/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/Media/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/Media/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/QrCode/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/QrCode/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/Url/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/BasicService/Url/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Factory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/AccessToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/BaseClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Config.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Contracts/AccessTokenInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Contracts/Arrayable.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Contracts/EventHandlerInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Contracts/MediaInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Contracts/MessageInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Decorators/FinallyResult.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Decorators/TerminateResult.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Encryptor.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Exceptions/BadRequestException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Exceptions/DecryptException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Exceptions/Exception.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Exceptions/HttpException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Exceptions/InvalidArgumentException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Exceptions/InvalidConfigException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Exceptions/RuntimeException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Exceptions/UnboundServiceException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Helpers.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Http/Response.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Http/StreamResponse.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Log/LogManager.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Article.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Card.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/DeviceEvent.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/DeviceText.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/File.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Image.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Link.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Location.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Media.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Message.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Music.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/News.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/NewsItem.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Raw.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/ShortVideo.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Text.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/TextCard.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Transfer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Video.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Messages/Voice.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Providers/ConfigServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Providers/ExtensionServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Providers/HttpClientServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Providers/LogServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Providers/RequestServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/ServerGuard.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/ServiceContainer.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Support/AES.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Support/Arr.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Support/ArrayAccessible.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Support/Collection.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Support/File.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Support/Helpers.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Support/Str.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Support/XML.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Traits/HasAttributes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Traits/HasHttpRequests.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Traits/InteractsWithCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Traits/Observable.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Kernel/Traits/ResponseCastable.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/AppCode/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/AppCode/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/Application.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/Auth/AccessToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/Auth/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/Auth/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/CustomerService/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/DataCube/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/DataCube/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/Encryptor.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/Server/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/Store/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/Store/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/TemplateMessage/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/MiniProgram/TemplateMessage/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Application.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Auth/AccessToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Auth/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/AutoReply/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/AutoReply/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Base/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Base/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Broadcasting/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Broadcasting/MessageBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Broadcasting/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/BoardingPassClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/Card.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/CodeClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/CoinClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/GeneralCardClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/JssdkClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/MeetingTicketClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/MemberCardClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/MovieTicketClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Card/SubMerchantClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Comment/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Comment/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/CustomerService/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/CustomerService/Messenger.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/CustomerService/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/CustomerService/SessionClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/DataCube/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/DataCube/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Device/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Device/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Material/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Material/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Menu/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Menu/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/OAuth/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/POI/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/POI/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Semantic/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Semantic/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Server/Guard.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Server/Handlers/EchoStrHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/Server/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/ShakeAround/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/ShakeAround/DeviceClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/ShakeAround/GroupClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/ShakeAround/MaterialClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/ShakeAround/PageClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/ShakeAround/RelationClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/ShakeAround/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/ShakeAround/ShakeAround.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/ShakeAround/StatsClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/TemplateMessage/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/TemplateMessage/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/User/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/User/TagClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OfficialAccount/User/UserClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Application.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Auth/AccessToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Auth/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Auth/VerifyTicket.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/Aggregate/Account/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/Aggregate/AggregateServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/Auth/AccessToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/MiniProgram/Application.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/MiniProgram/Auth/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/MiniProgram/Code/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/MiniProgram/Code/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/MiniProgram/Domain/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/MiniProgram/Domain/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/MiniProgram/Tester/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/MiniProgram/Tester/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/OfficialAccount/Account/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/OfficialAccount/Application.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/OfficialAccount/MiniProgram/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/OfficialAccount/MiniProgram/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/OfficialAccount/OAuth/ComponentDelegate.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Authorizer/Server/Guard.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Base/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Base/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/CodeTemplate/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/CodeTemplate/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Server/Guard.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Server/Handlers/Authorized.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Server/Handlers/Unauthorized.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Server/Handlers/UpdateAuthorized.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Server/Handlers/VerifyTicketRefreshed.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/OpenPlatform/Server/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Application.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Base/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Base/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Bill/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Bill/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Coupon/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Coupon/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Jssdk/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Jssdk/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Kernel/BaseClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Kernel/Exceptions/InvalidSignException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Kernel/Exceptions/SandboxException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Merchant/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Merchant/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Notify/Handler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Notify/Paid.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Notify/Refunded.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Notify/Scanned.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Order/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Order/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Redpack/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Redpack/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Refund/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Refund/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Reverse/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Reverse/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Sandbox/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Sandbox/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Security/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Security/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Transfer/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Payment/Transfer/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Agent/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Agent/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Application.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Auth/AccessToken.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Auth/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Base/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Base/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Department/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Department/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Invoice/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Invoice/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Jssdk/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Jssdk/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Media/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Media/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Menu/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Menu/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Message/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Message/Messenger.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Message/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/OA/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/OA/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/OAuth/AccessTokenDelegate.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/OAuth/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Server/Guard.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Server/Handlers/EchoStrHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/Server/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/User/Client.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/User/ServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/overtrue/wechat/src/Work/User/TagClient.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/CHANGELOG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/README.rst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/config.m4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/config.w32" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/php_pimple.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/pimple.c" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/pimple_compat.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/001.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/002.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/003.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/004.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/005.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/006.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/007.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/008.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/009.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/010.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/011.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/012.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/013.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/014.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/015.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/016.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/017.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/017_1.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/018.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/019.phpt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/bench.phpb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/ext/pimple/tests/bench_shared.phpb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/phpunit.xml.dist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Container.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Exception/ExpectedInvokableException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Exception/FrozenServiceException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Exception/InvalidServiceIdentifierException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Exception/UnknownIdentifierException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Psr11/Container.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Psr11/ServiceLocator.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/ServiceIterator.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/ServiceProviderInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Fixtures/Invokable.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Fixtures/NonInvokable.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Fixtures/PimpleServiceProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Fixtures/Service.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/PimpleServiceProviderInterfaceTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/PimpleTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Psr11/ContainerTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/Psr11/ServiceLocatorTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/pimple/pimple/src/Pimple/Tests/ServiceIteratorTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/cache/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/cache/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/cache/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/cache/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/cache/src/CacheException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/cache/src/CacheItemInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/cache/src/CacheItemPoolInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psr/cache/src/InvalidArgumentException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/.editorconfig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/Makefile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/bin/build-stub" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/box.json.dist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/LegacyEmptyPass.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/ListPass.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Command/ReflectingCommand.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Command/TraceCommand.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Context.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Exception/TypeErrorException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/ExecutionClosure.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/ExecutionLoop.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/ExecutionLoopClosure.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Formatter/CodeFormatter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Formatter/SignatureFormatter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Reflection/ReflectionLanguageConstruct.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/Shell.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/AbstractMatcher.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/ClassAttributesMatcher.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/ClassMethodsMatcher.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/TabCompletion/Matcher/ClassNamesMatcher.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/src/functions.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/FunctionReturnInWriteContextPassTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/ImplicitReturnPassTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/ListPassTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/NamespacePassTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/RequirePassTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/UseStatementPassTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleaner/ValidClassNamePassTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/CodeCleanerTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/ContextTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Exception/BreakExceptionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Exception/ErrorExceptionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Exception/ThrowUpExceptionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Exception/TypeErrorExceptionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Formatter/CodeFormatterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Formatter/Fixtures/BoringTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Formatter/Fixtures/SomeClass.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Formatter/SignatureFormatterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Reflection/ReflectionLanguageConstructParameterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/Reflection/ReflectionLanguageConstructTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/ShellTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/TabCompletion/AutoCompleterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/test/VersionUpdater/NoopCheckerTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/vendor-bin/box/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/psy/psysh/vendor-bin/box/composer.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/AbstractAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/AdapterInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/ApcuAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/ArrayAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/ChainAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/DoctrineAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/FilesystemAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/MemcachedAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/NullAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/PdoAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/PhpArrayAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/PhpFilesAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/ProxyAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/RedisAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/SimpleCacheAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/TagAwareAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/TagAwareAdapterInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/TraceableAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Adapter/TraceableTagAwareAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/CacheItem.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/DataCollector/CacheDataCollector.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/DoctrineProvider.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Exception/CacheException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Exception/InvalidArgumentException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/PruneableInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/ResettableInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/AbstractCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/ApcuCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/ArrayCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/ChainCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/DoctrineCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/FilesystemCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/MemcachedCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/NullCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/PdoCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/PhpArrayCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/PhpFilesCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/Psr6Cache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/RedisCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Simple/TraceableCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/AbstractRedisAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/AdapterTestCase.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/ApcuAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/ArrayAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/ChainAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/DoctrineAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/FilesystemAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/MaxIdLengthAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/MemcachedAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/NamespacedProxyAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/NullAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/PdoAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/PdoDbalAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/PhpArrayAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/PhpArrayAdapterWithFallbackTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/PhpFilesAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/PredisAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/PredisClusterAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/ProxyAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/RedisAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/RedisArrayAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/SimpleCacheAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/TagAwareAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/TraceableAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Adapter/TraceableTagAwareAdapterTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/CacheItemTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/DoctrineProviderTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Fixtures/ArrayCache.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Fixtures/ExternalAdapter.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/AbstractRedisCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/ApcuCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/ArrayCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/CacheTestCase.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/ChainCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/DoctrineCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/FilesystemCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/MemcachedCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/NullCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/PdoCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/PdoDbalCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/PhpArrayCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/PhpArrayCacheWithFallbackTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/PhpFilesCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/Psr6CacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/RedisArrayCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/RedisCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Simple/TraceableCacheTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Tests/Traits/PdoPruneableTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/AbstractTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/ApcuTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/ArrayTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/DoctrineTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/FilesystemCommonTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/FilesystemTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/MemcachedTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/PdoTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/PhpArrayTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/PhpFilesTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/ProxyTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/RedisProxy.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/Traits/RedisTrait.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/cache/phpunit.xml.dist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/console/Command/Command.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/Node/Specificity.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/Translator.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/css-selector/XPath/XPathExpr.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/ErrorHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/Exception/FlattenException.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/debug/Tests/ErrorHandlerTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/finder/SplFileInfo.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/File.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/File/UploadedFile.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Request.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Session/Storage/Handler/PdoSessionHandler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-foundation/Tests/RequestTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/ControllerMetadata/ArgumentMetadataFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/EventListener/RouterListener.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Kernel.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Profiler/Profiler.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/ControllerMetadata/ArgumentMetadataFactoryTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Exception/UnprocessableEntityHttpExceptionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Exception/UnsupportedMediaTypeHttpExceptionTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/Tests/Profiler/ProfilerTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/http-kernel/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/Ctype.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/bootstrap.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/ExecutableFinder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/PhpExecutableFinder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/Pipes/AbstractPipes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/process/Pipes/UnixPipes.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/CHANGELOG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Factory/DiactorosFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Factory/HttpFoundationFactory.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/HttpFoundationFactoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/HttpMessageFactoryInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Tests/Factory/DiactorosFactoryTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Tests/Factory/HttpFoundationFactoryTest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Tests/Fixtures/Message.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Tests/Fixtures/Response.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Tests/Fixtures/ServerRequest.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Tests/Fixtures/Stream.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Tests/Fixtures/UploadedFile.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/Tests/Fixtures/Uri.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/composer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge/phpunit.xml.dist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/routing/Matcher/Dumper/DumperCollection.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/routing/RouteCollectionBuilder.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/Command/XliffLintCommand.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/MessageCatalogueInterface.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/translation/PluralizationRules.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +703,7 @@
       <file leaf-file-name="register.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
+            <state relative-caret-position="285">
               <caret line="69" column="118" lean-forward="false" selection-start-line="69" selection-start-column="118" selection-end-line="69" selection-end-column="118" />
               <folding>
                 <marker date="1526869157987" expanded="true" signature="9:22" ph="..." />
@@ -69,8 +733,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="264">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -85,6 +749,9 @@
       <find>Site Title</find>
       <find>/home</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -133,29 +800,99 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
     <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/mews/captcha" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/thanks" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
       <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/vendor/symfony/translation" />
       <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
-      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
-      <path value="$PROJECT_DIR$/vendor/composer" />
-      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
-      <path value="$PROJECT_DIR$/vendor/symfony/console" />
-      <path value="$PROJECT_DIR$/vendor/symfony/process" />
-      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
-      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
-      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
-      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
-      <path value="$PROJECT_DIR$/vendor/swagger-api/swagger-ui" />
-      <path value="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer" />
-      <path value="$PROJECT_DIR$/vendor/overtrue/wechat" />
-      <path value="$PROJECT_DIR$/vendor/overtrue/socialite" />
-      <path value="$PROJECT_DIR$/vendor/pimple/pimple" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
-      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
       <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
-      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
-      <path value="$PROJECT_DIR$/vendor/psr/cache" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/zircote/swagger-php" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/socialite" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/overtrue/wechat" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/swagger-api/swagger-ui" />
+      <path value="$PROJECT_DIR$/vendor/darkaonline/l5-swagger" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/easywechat-composer/easywechat-composer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -248,21 +985,23 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52802000" />
+    <option name="totallyTimeSpent" value="53467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1600" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19512194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32648125" sideWeight="0.5025674" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32406288" sideWeight="0.49743262" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19512194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -278,7 +1017,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19512194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -395,13 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Application.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="1069" column="20" lean-forward="false" selection-start-line="1069" selection-start-column="20" selection-end-line="1069" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -629,17 +1360,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="285">
           <caret line="69" column="118" lean-forward="false" selection-start-line="69" selection-start-column="118" selection-end-line="69" selection-end-column="118" />
           <folding>
             <marker date="1526869157987" expanded="true" signature="9:22" ph="..." />
@@ -662,6 +1385,22 @@
             <marker date="1526869157987" expanded="true" signature="3753:3776" ph="..." />
             <marker date="1526869157987" expanded="true" signature="3894:3921" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
