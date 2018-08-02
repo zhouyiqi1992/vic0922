@@ -35,3 +35,5 @@ Route::post('password/reset', 'Auth\ResetPasswordController@reset');
 
 Route::get('json', 'SwaggerController@getJSON');
 Route::get('my-data', 'SwaggerController@getMyData');
+
+Route::resource('users', 'UsersController', ['only' => ['show', 'update', 'edit']]);
