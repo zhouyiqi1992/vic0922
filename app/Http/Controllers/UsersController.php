@@ -27,6 +27,12 @@ class UsersController extends Controller
         return view('users.edit', compact('user'));
     }
 
+    /**
+     * 编辑后保存
+     * @param UserRequest $request
+     * @param User $user
+     * @return \Illuminate\Http\RedirectResponse
+     */
     public function update(UserRequest $request, User $user)
     {
         $user->update($request->all());
